@@ -1,14 +1,14 @@
-# thumbnail-downloader
+# Downloader de Thumbnail
 
-A YouTube thumbnail downloader using the Flask framework of the Python language.
+Um downloader de thumbnails do YouTube usando o framework Flask da linguagem Python.
 
-## Features
+## Funcionalidades
 
-- Download any YouTube thumbnail using the link.
+- Baixe qualquer thumbail de qualquer vídeo do YouTube apenas fornecendo o link do respectivo vídeo para o sistema.
 
-## FAQ
+## Perguntas Frequentes
 
-#### When was this project created?
+#### Quando o projeto foi criado?
 
 2022.
 
@@ -16,11 +16,11 @@ A YouTube thumbnail downloader using the Flask framework of the Python language.
 
 ![App Screenshot](https://user-images.githubusercontent.com/83461178/210815210-098ca869-d1ea-401d-a22c-e96234ee70c9.png)
 
-## Author
+## Autor
 
 - [@marcelldac](https://github.com/marcelldac)
 
-## References
+## Referencias
 
- - [Python Documentation](https://wiki.python.org/moin/BeginnersGuide)
- - [Flask Documentation](https://flask.palletsprojects.com/en/2.2.x/)
+ - [Documentação Python](https://wiki.python.org/moin/BeginnersGuide)
+ - [Documentação Flask](https://flask.palletsprojects.com/en/2.2.x/)
